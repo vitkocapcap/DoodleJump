@@ -1,0 +1,15 @@
+﻿  Blue_Platform.cpp
+  Brown_Platform.cpp
+  Green_Platform.cpp
+  Main.cpp
+  Object.cpp
+  Platform.cpp
+  Player.cpp
+  Rocket.cpp
+  Spring.cpp
+  Sprite.cpp
+  Timer.cpp
+  White_Platform.cpp
+  Yellow_Platform.cpp
+  Generating Code...
+  dark_strategy.vcxproj -> M:\Game c++\abc\dark_strategy\Debug\dark_strategy.exe
